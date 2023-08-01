@@ -17,7 +17,7 @@ Cafe delights is a website that allows users to know details about the cafe -"Ca
 ![image](https://github.com/Aditi-Pharasi/Anveshan-internship-project/assets/116096105/2ee94822-3c91-4747-8116-984812392d62)
 ![image](https://github.com/Aditi-Pharasi/Anveshan-internship-project/assets/116096105/49bc267e-b565-41a4-b06f-e0da98a43052)
 
-![image](https://github.com/Aditi-Pharasi/Anveshan-internship-project/assets/116096105/791b7734-c7d7-440a-9f88-7b00fd696f39)
-![image](https://github.com/Aditi-Pharasi/Anveshan-internship-project/assets/116096105/70b21fba-433c-4acd-be52-9f3c657d8ce1)
+![image](https://github.com/Aditi-Pharasi/Anveshan-internship-project/assets/116096105/791b7734-c7d7-440a-9f88-7b00fd696f39) ![image](https://github.com/Aditi-Pharasi/Anveshan-internship-project/assets/116096105/70b21fba-433c-4acd-be52-9f3c657d8ce1)
+
 
 
