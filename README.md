@@ -1,7 +1,7 @@
 ## Anveshan-internship-project ---- " **Cafe Delights** "
 This repo contains the project website made under the internship training program by Anveshan Foundation-  igdtuw
 ## **Cafe Delights** 
-Cafe delights is a website that allows users to know details about the cafe -"Cafe delights" and its services.
+Cafe delights is a website that allows users to know details about the cafe named -"Cafe delights" and its services.
 
 1. Users can glance through the images, environment of the cafe. 
 2. This website allows users to look at the menu of the cafe and pre-decide what they want to order and also pre-book a table according to number of guests.
